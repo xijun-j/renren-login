@@ -33,9 +33,9 @@ Go to Site Settings's login category, fill in the client id and client secret.
 
 ## Issue / 问题
 
-Visit [topic on Discourse Meta](https://meta.discourse.org/t/douban-login-plugin/19736) or [GitHub Issues](https://github.com/fantasticfears/renren-login/issues).
+Visit [topic on Discourse Meta](https://meta.discourse.org/t/renren-login-plugin/19747) or [GitHub Issues](https://github.com/fantasticfears/renren-login/issues).
 
-访问[Discourse Meta上的主题](https://meta.discourse.org/t/douban-login-plugin/19736)或[GitHub Issues](https://github.com/fantasticfears/renren-login/issues)。
+访问[Discourse Meta上的主题](https://meta.discourse.org/t/renren-login-plugin/19747)或[GitHub Issues](https://github.com/fantasticfears/renren-login/issues)。
 
 ## Changelog
 
