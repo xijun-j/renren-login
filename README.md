@@ -11,6 +11,8 @@ Authenticate with discourse with Renren.
 3. 填写相关信息。`应用根域名`填写根域名。如图所示。
 4. 在申请到的后台找到刚申请到的引用，概览中即可以获得`key`和`secret`，将其填入 Discourse 设置中。
 
+<img src="https://meta.discourse.org/uploads/default/34533/ae6314cb61a93301.png" width="458" height="500"> 
+
 ## Installation / 安装
 
 Run `rake plugin:install repo=https://github.com/fantasticfears/renren-login` in your discourse directory
@@ -36,6 +38,14 @@ Go to Site Settings's login category, fill in the client id and client secret.
 Visit [topic on Discourse Meta](https://meta.discourse.org/t/renren-login-plugin/19747) or [GitHub Issues](https://github.com/fantasticfears/renren-login/issues).
 
 访问[Discourse Meta上的主题](https://meta.discourse.org/t/renren-login-plugin/19747)或[GitHub Issues](https://github.com/fantasticfears/renren-login/issues)。
+
+<img src="https://meta.discourse.org/uploads/default/34534/d837a2a1ef1fcbf3.png" width="690" height="325">
+
+<img src="https://meta.discourse.org/uploads/default/34535/f9d71a6af7263265.png" width="690" height="307">
+
+<img src="https://meta.discourse.org/uploads/default/34536/06c11f5f149450b4.png" width="690" height="326">
+
+<img src="https://meta.discourse.org/uploads/default/34537/2cb707f91db50241.png" width="690" height="312">
 
 ## Changelog
 
