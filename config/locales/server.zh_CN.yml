@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+zh_CN:
+  site_settings:
+    renren_client_id: "人人帐号验证的客户端帐号（Client id），到 http://dev.renren.com/website 来注册获取"
+    renren_client_secret: "人人帐号验证的客户端密码（Client secret），到 http://dev.renren.com/website 来注册获取"

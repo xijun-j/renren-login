@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    renren_client_id: "Client id for Renren authentication, registered at http://dev.renren.com/website"
+    renren_client_secret: "Client secret for Renren authentication, registered at http://dev.renren.com/website"

@@ -1,0 +1,5 @@
+login:
+  renren_client_id:
+    default: ''
+  renren_client_secret:
+    default: ''
